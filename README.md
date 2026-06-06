@@ -1,4 +1,5 @@
 Customer Churn Prediction Model 🚀
+
 Overview
 This project aims to predict customer churn for a telecommunications company. By analyzing demographic data, account information, and service usage, the model identifies customers at high risk of leaving the service. The goal is to provide actionable insights for retention teams.
 
